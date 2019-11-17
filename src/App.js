@@ -10,7 +10,7 @@ import AddTodo from './containers/AddToDo';
 
 class App extends Component {
   state = {
-    todos: []
+    todos: [],
   }
   markToDoAsComplete = (id) => {
       this.setState({
