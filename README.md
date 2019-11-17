@@ -1,2 +1,2 @@
 # React-To-Do
-To do app created in react
+A To do App prototype created in React
